@@ -1,5 +1,5 @@
 import App from "./App";
 
-const SecondPackage = App;
+const HollooSecondPackage = App;
 
-export default SecondPackage;
+module.exports = HollooSecondPackage;

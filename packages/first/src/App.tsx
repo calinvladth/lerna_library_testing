@@ -1,9 +1,9 @@
-function App() {
+function App({text}: {text: string}) {
 
   return (
-    <>
-      <p>First Package will import Second Package</p>
-    </>
+    <section style={{width: '100%', height: '200px', border: '1px solid red'}}>
+      <p>First Package: {text}</p>
+    </section>
   )
 }
 

@@ -26,7 +26,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/calinvladth/Desktop/lerna_1/packages/second/src",
+    "last_opened_file_path": "/Users/calinvladth/Desktop/lerna_1/apps/app_1/src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -38,6 +38,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/apps/app_1/src" />
       <recent name="$PROJECT_DIR$/packages/second/src" />
     </key>
   </component>
@@ -50,7 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1693488774523</updated>
       <workItem from="1693488776360" duration="1372000" />
-      <workItem from="1693738274175" duration="1501000" />
+      <workItem from="1693738274175" duration="2623000" />
     </task>
     <servers />
   </component>
